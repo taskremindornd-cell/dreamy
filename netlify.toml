@@ -1,0 +1,5 @@
+[build]
+  # Install dependencies as part of the build so `vite` is always available,
+  # even when the build environment starts without node_modules.
+  command = "npm ci --include=dev && npm run build"
+  publish = "dist"
