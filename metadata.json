@@ -1,0 +1,6 @@
+{
+  "name": "Dream Builder",
+  "description": "Turn a child's imagination into an interactive fantasy world with characters, branching stories, and keepsake story cards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
